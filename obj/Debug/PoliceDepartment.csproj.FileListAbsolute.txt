@@ -1,0 +1,98 @@
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\PoliceDepartment.exe.config
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\PoliceDepartment.exe
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\PoliceDepartment.pdb
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\RestSharp.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Buffers.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.CodeDom.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Memory.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Text.Json.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.ValueTuple.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\RestSharp.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Buffers.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.CodeDom.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Memory.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Text.Json.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.ValueTuple.xml
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.csproj.AssemblyReference.cache
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Form1.resources
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Properties.Resources.resources
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.csproj.GenerateResource.cache
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.csproj.CoreCompileInputs.cache
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDe.34CC92EF.Up2Date
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.exe
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.pdb
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Dashboard.resources
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Cases.resources
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Wanted.resources
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Charges.resources
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\PoliceDepartment.exe.config
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\PoliceDepartment.exe
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\PoliceDepartment.pdb
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\RestSharp.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Buffers.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.CodeDom.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Memory.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Text.Json.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.ValueTuple.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\RestSharp.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Buffers.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.CodeDom.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Memory.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Text.Json.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.ValueTuple.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.csproj.AssemblyReference.cache
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Cases.resources
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Charges.resources
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Dashboard.resources
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Form1.resources
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Properties.Resources.resources
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Wanted.resources
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.csproj.GenerateResource.cache
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDe.34CC92EF.Up2Date
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.exe
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.pdb
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\Google.Protobuf.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\MySql.Data.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\ZstdSharp.dll
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\Google.Protobuf.pdb
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\Google.Protobuf.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\MySql.Data.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.IO.Pipelines.xml

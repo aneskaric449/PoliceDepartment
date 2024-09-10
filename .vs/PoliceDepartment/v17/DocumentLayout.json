@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PoliceDepartment||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|c:\\users\\anes kari\u0107\\source\\repos\\policedepartment\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\charges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:charges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|c:\\users\\anes kari\u0107\\source\\repos\\policedepartment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\wanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:wanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|c:\\users\\anes kari\u0107\\source\\repos\\policedepartment\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAiwKcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:44:24.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:43:04.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T01:06:59.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Charges.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Charges.cs",
+              "RelativeDocumentMoniker": "Charges.cs",
+              "ToolTip": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Charges.cs [Design]",
+              "RelativeToolTip": "Charges.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:40:11.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoliceDepartment",
+              "DocumentMoniker": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\PoliceDepartment.csproj",
+              "RelativeDocumentMoniker": "PoliceDepartment.csproj",
+              "ToolTip": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\PoliceDepartment.csproj",
+              "RelativeToolTip": "PoliceDepartment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-26T04:05:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wanted.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Wanted.cs",
+              "RelativeDocumentMoniker": "Wanted.cs",
+              "ToolTip": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Wanted.cs [Design]",
+              "RelativeToolTip": "Wanted.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:03:46.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cases.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Cases.cs",
+              "RelativeDocumentMoniker": "Cases.cs",
+              "ToolTip": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Cases.cs [Design]",
+              "RelativeToolTip": "Cases.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:23:27.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:39:16.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Anes Kari\u0107\\source\\repos\\PoliceDepartment\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:36:42.465Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
