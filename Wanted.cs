@@ -15,6 +15,7 @@ namespace PoliceDepartment
         public Wanted()
         {
             InitializeComponent();
+            this.CenterToScreen();
         }
     }
 }

@@ -40,8 +40,10 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.pictureBoxPass = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxPass)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -115,7 +117,7 @@
             this.comboBox1.Items.AddRange(new object[] {
             "Admin",
             "Officer"});
-            this.comboBox1.Location = new System.Drawing.Point(300, 139);
+            this.comboBox1.Location = new System.Drawing.Point(300, 132);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(218, 30);
             this.comboBox1.TabIndex = 4;
@@ -125,7 +127,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Palatino Linotype", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(69)))), ((int)(((byte)(125)))));
-            this.label5.Location = new System.Drawing.Point(296, 177);
+            this.label5.Location = new System.Drawing.Point(296, 170);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(84, 22);
             this.label5.TabIndex = 5;
@@ -133,24 +135,25 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(300, 202);
+            this.textBox1.Location = new System.Drawing.Point(300, 195);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(218, 29);
             this.textBox1.TabIndex = 6;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(300, 262);
+            this.textBox2.Location = new System.Drawing.Point(300, 255);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(218, 29);
             this.textBox2.TabIndex = 8;
+            this.textBox2.UseSystemPasswordChar = true;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Palatino Linotype", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(69)))), ((int)(((byte)(125)))));
-            this.label6.Location = new System.Drawing.Point(296, 237);
+            this.label6.Location = new System.Drawing.Point(296, 230);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(74, 22);
             this.label6.TabIndex = 7;
@@ -160,7 +163,7 @@
             // 
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(69)))), ((int)(((byte)(125)))));
-            this.button1.Location = new System.Drawing.Point(321, 311);
+            this.button1.Location = new System.Drawing.Point(321, 318);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(171, 31);
             this.button1.TabIndex = 9;
@@ -168,10 +171,23 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // pictureBoxPass
+            // 
+            this.pictureBoxPass.BackColor = System.Drawing.SystemColors.Window;
+            this.pictureBoxPass.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBoxPass.Image = global::PoliceDepartment.Properties.Resources.icons8_invisible_60;
+            this.pictureBoxPass.Location = new System.Drawing.Point(495, 261);
+            this.pictureBoxPass.Name = "pictureBoxPass";
+            this.pictureBoxPass.Size = new System.Drawing.Size(17, 17);
+            this.pictureBoxPass.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxPass.TabIndex = 10;
+            this.pictureBoxPass.TabStop = false;
+            this.pictureBoxPass.Click += new System.EventHandler(this.pictureBoxPass_Click);
+            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::PoliceDepartment.Properties.Resources.icons8_fingerprint_100;
-            this.pictureBox1.Location = new System.Drawing.Point(376, 56);
+            this.pictureBox1.Location = new System.Drawing.Point(376, 55);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(61, 61);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -181,7 +197,9 @@
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(621, 374);
+            this.Controls.Add(this.pictureBoxPass);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.label6);
@@ -198,6 +216,7 @@
             this.Text = "Login";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxPass)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -219,6 +238,7 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.PictureBox pictureBoxPass;
     }
 }
 

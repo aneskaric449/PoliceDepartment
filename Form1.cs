@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql;
+using MySqlX.XDevAPI.Common;
 
 namespace PoliceDepartment
 {
@@ -17,9 +18,12 @@ namespace PoliceDepartment
         public Form1()
         {
             InitializeComponent();
+            this.CenterToScreen();
         }
 
         string connstring = "Server=localhost; Port=3306;Database=dbpd;Uid=root;Pwd=Sutlija1312-";
+        Message currentMsgBox;
+        bool isPassVisible = false;
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -34,12 +38,12 @@ namespace PoliceDepartment
                 string query = @"SELECT
                                     CASE
                                         WHEN EXISTS (
-                                            SELECT * FROM dbpd.members WHERE username = @param1
+                                            SELECT * FROM dbpd.members WHERE Username = @param1
                                         ) AND EXISTS (
-                                            SELECT * FROM dbpd.members WHERE username = @param1 AND pass = @param2
+                                            SELECT * FROM dbpd.members WHERE Username = @param1 AND Secret = @param2
                                         ) THEN 'Logged in!'
                                         WHEN EXISTS (
-                                            SELECT * FROM dbpd.members WHERE username = @param1
+                                            SELECT * FROM dbpd.members WHERE Username = @param1
                                         ) THEN 'Incorrect password'
                                         ELSE 'User does not exist'
                                     END AS result
@@ -51,24 +55,24 @@ namespace PoliceDepartment
 
                 MySqlDataReader reader = cmd.ExecuteReader();
 
+                string result = string.Empty;
+
                 while (reader.Read())
                 {
-                    string result = reader["result"].ToString();
-                    //MessageBox.Show(result);
-                    
-                    if(result == "Logged in!" && comboBox1.SelectedIndex == 0)
+                    result = reader["result"].ToString();
+                    Message.GetInstance().SetText(result);          
+                }
+                reader.Close();
+                if (result == "Logged in!" && comboBox1.SelectedIndex == 0)
+                {
+                    string query_ = "SELECT * FROM dbpd.members WHERE Username = @param0 AND Secret = @param1 AND Ranking > 5";
+                    MySqlCommand cmd_ = new MySqlCommand(query_, conn);
+                    cmd_.Parameters.AddWithValue("@param0", user);
+                    cmd_.Parameters.AddWithValue("@param1", pass);
+                    reader = cmd_.ExecuteReader();
+                    if (!reader.HasRows)
                     {
-                        string query_ = "SELECT * FROM dbpd.members WHERE username = @param1 AND pass = @param2 AND rank_ref > 5";
-                        MySqlCommand cmd_ = new MySqlCommand(query_, conn);
-                        cmd_.Parameters.AddWithValue("@param1", user);
-                        cmd_.Parameters.AddWithValue("@param2", pass);
-
-                        MySqlDataReader reader_ = cmd_.ExecuteReader();
-
-                        if(!reader_.HasRows)
-                        {
-                            MessageBox.Show("Insufficient permissions!");
-                        }
+                        Message.GetInstance().SetText("Insufficient permissions!");
                     }
                 }
             }
@@ -77,6 +81,13 @@ namespace PoliceDepartment
                 MessageBox.Show(ex.ToString());
             }
            
+        }
+
+        private void pictureBoxPass_Click(object sender, EventArgs e)
+        {
+            pictureBoxPass.Image = isPassVisible ? Properties.Resources.icons8_invisible_60 : Properties.Resources.icons8_visible_60;
+            isPassVisible = !isPassVisible;
+            textBox2.UseSystemPasswordChar = !textBox2.UseSystemPasswordChar;
         }
     }
 }

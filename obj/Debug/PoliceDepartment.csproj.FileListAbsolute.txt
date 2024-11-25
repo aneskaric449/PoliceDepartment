@@ -96,3 +96,27 @@ C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\MySql.Data.xml
 C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Configuration.ConfigurationManager.xml
 C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Anes Karić\source\repos\PoliceDepartment\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Message.resources
+C:\Users\Anes Karić\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Officer.resources
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\Google.Protobuf.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\MySql.Data.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.IO.Pipelines.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\ZstdSharp.dll
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\Google.Protobuf.pdb
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\Google.Protobuf.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\MySql.Data.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\inves\source\repos\PoliceDepartment\bin\Debug\System.IO.Pipelines.xml
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Message.resources
+C:\Users\inves\source\repos\PoliceDepartment\obj\Debug\PoliceDepartment.Officer.resources

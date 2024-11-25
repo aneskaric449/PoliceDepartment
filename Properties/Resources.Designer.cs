@@ -143,6 +143,26 @@ namespace PoliceDepartment.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_info_100 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-info-100", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_invisible_60 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-invisible-60", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_police_26 {
             get {
                 object obj = ResourceManager.GetObject("icons8-police-26", resourceCulture);
@@ -186,6 +206,16 @@ namespace PoliceDepartment.Properties {
         internal static System.Drawing.Bitmap icons8_sheriff_261 {
             get {
                 object obj = ResourceManager.GetObject("icons8-sheriff-261", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_visible_60 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-visible-60", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

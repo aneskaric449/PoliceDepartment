@@ -1,0 +1,8 @@
+// ------------------------------ ZAVRŠENO ------------------------------------------
+// Sistem detekcije zadnjeg IDa prilikom dodavanja novih membera (spriječavanje preskakanja)
+
+
+
+// ------------------------------ ZA ODRADITI ------------------------------------------
+
+Tipku za editanje članova policije

@@ -15,6 +15,7 @@ namespace PoliceDepartment
         public Cases()
         {
             InitializeComponent();
+            this.CenterToScreen();
         }
     }
 }

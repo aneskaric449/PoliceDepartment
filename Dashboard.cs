@@ -15,6 +15,7 @@ namespace PoliceDepartment
         public Dashboard()
         {
             InitializeComponent();
+            this.CenterToScreen();
         }
     }
 }
