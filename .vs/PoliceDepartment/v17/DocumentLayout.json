@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|c:\\users\\inves\\source\\repos\\policedepartment\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\inves\\source\\repos\\PoliceDepartment\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\inves\\source\\repos\\PoliceDepartment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\inves\\source\\repos\\PoliceDepartment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|c:\\users\\inves\\source\\repos\\policedepartment\\wanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:wanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\inves\\source\\repos\\PoliceDepartment\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\inves\\source\\repos\\PoliceDepartment\\charges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:charges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\inves\\source\\repos\\PoliceDepartment\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|solutionrelative:cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F198005-3647-498C-AD0C-2081A047A58C}|PoliceDepartment.csproj|C:\\Users\\inves\\source\\repos\\PoliceDepartment\\wanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +54,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:26:16.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Charges.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Charges.cs",
+              "RelativeDocumentMoniker": "Charges.cs",
+              "ToolTip": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Charges.cs [Design]",
+              "RelativeToolTip": "Charges.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:23:42.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cases.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Cases.cs",
+              "RelativeDocumentMoniker": "Cases.cs",
+              "ToolTip": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Cases.cs [Design]",
+              "RelativeToolTip": "Cases.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:21:42.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wanted.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Wanted.cs",
+              "RelativeDocumentMoniker": "Wanted.cs",
+              "ToolTip": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Wanted.cs [Design]",
+              "RelativeToolTip": "Wanted.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:21:24.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:55:18.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Officer.cs",
               "DocumentMoniker": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Officer.cs",
               "RelativeDocumentMoniker": "Officer.cs",
               "ToolTip": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Officer.cs",
               "RelativeToolTip": "Officer.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAqwKUAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJ4AAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T16:21:16.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Officer.cs [Design]",
               "DocumentMoniker": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Officer.cs",
               "RelativeDocumentMoniker": "Officer.cs",
@@ -59,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Wanted.cs",
               "DocumentMoniker": "C:\\Users\\inves\\source\\repos\\PoliceDepartment\\Wanted.cs",
               "RelativeDocumentMoniker": "Wanted.cs",
@@ -67,8 +147,7 @@
               "RelativeToolTip": "Wanted.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:20:43.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T16:20:43.958Z"
             }
           ]
         }

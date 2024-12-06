@@ -155,21 +155,23 @@ namespace PoliceDepartment
                 try
                 {
                     conn.Open();
-                    string query = @"UPDATE members SET (ID = @param0, FullName = @param1, Birth = @param2, Email, Ranking, Username, Secret) 
-                                                        VALUES (@param0, @param1, @param2, @param3, @param4, @param5, @param6)";
+                    string query = @"UPDATE members 
+                                    SET FullName = @param0, Birth = @param1, Email = @param2, Ranking = @param3, Username = @param4, Secret = @param5
+                                    WHERE ID = @selectedid";
                     MySqlCommand cmd = new MySqlCommand(query, conn);
-                    cmd.Parameters.AddWithValue("@param0", GetLastID() + 1);
-                    cmd.Parameters.AddWithValue("@param1", NameTb.Text);
-                    cmd.Parameters.AddWithValue("@param2", dateTimePicker1.Value.Date);
-                    cmd.Parameters.AddWithValue("@param3", EmailTb.Text);
-                    cmd.Parameters.AddWithValue("@param4", RankCb.SelectedIndex + 1);
-                    cmd.Parameters.AddWithValue("@param5", UserTb.Text);
-                    cmd.Parameters.AddWithValue("@param6", PassTb.Text);
+                    cmd.Parameters.AddWithValue("@param0", NameTb.Text);
+                    cmd.Parameters.AddWithValue("@param1", dateTimePicker1.Value.Date);
+                    cmd.Parameters.AddWithValue("@param2", EmailTb.Text);
+                    cmd.Parameters.AddWithValue("@param3", RankCb.SelectedIndex + 1);
+                    cmd.Parameters.AddWithValue("@param4", UserTb.Text);
+                    cmd.Parameters.AddWithValue("@param5", PassTb.Text);
+
+                    cmd.Parameters.AddWithValue("@selectedid", selectedID);
 
                     cmd.ExecuteNonQuery();
                     conn.Close();
 
-                    Message.GetInstance().SetText("Member recorded!");
+                    Message.GetInstance().SetText("Member updated!");
                     ShowMembers();
                 }
                 catch (MySqlException ex)
